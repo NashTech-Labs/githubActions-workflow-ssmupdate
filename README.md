@@ -1,4 +1,4 @@
-# Update aws ssm parameters suing github actions workflow
+# Update aws ssm parameters using github actions workflow
 In this example, the workflow is triggered on a push event to the main branch. The job named ssm-parameter-update runs on the latest version of Ubuntu.
 
 The steps within the job are as follows:
